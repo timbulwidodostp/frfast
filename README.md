@@ -1,6 +1,8 @@
 # frfast
 Fitting nonparametric models Use frfast (npregfast) With (In) R Software
 
+https://www.youtube.com/watch?v=02kXO5KZGmc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
